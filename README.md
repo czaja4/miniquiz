@@ -46,7 +46,9 @@ Interfejs: app/src/main/res/layout/activity_main.xml
     * `activity_main.xml`: Definicja układu UI.
 
 ## 📸 Zrzuty ekranu
-![(ss/1.png)
+![(ss/1.png)]
+![(ss/2.png)]
+![(ss/3.png)]
 
 
 ---
